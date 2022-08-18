@@ -8,7 +8,7 @@ sidebar_label: Installation
 
 BIRT has a design and runtime component. Both can be found in several different forms and versions. The BIRT download site is here:
 
-<center>**[https://downloads.eclipse.org/birt](https://downloads.eclipse.org/birt)**</center>
+<center>https://download.eclipse.org/birt/downloads/</center>
 
 ## Sources
 
@@ -33,7 +33,7 @@ BIRT can be downloaded and installed in different ways:
 
 *    or by downloading the Eclipse IDE for Java and Report Developers Package.
 
-*    or through the update manager as described here. Make sure to use the latest Update Site. Update Manager URLs as a package that only contains the BIRT plugins (Framework) from the download page. Note additional requirements are located on the download page as well. These include dependencies on other Eclipse projects. These dependencies are listed on the download page for the specific build.
+*    or through the update manager as described here. Make sure to use the latest Update Site (https://download.eclipse.org/birt/update-site/latest). Update Manager URLs as a package that only contains the BIRT plugins (Framework) from the download page. Note additional requirements are located on the download page as well. These include dependencies on other Eclipse projects. These dependencies are listed on the download page for the specific build.
 
 All of the above downloads contain the BIRT designer. The BIRT project has many additional downloads, including a runtime for deploying the BIRT engine in a web application or standalone Java application. The additional downloads are available for any build of BIRT by selecting the appropriate build here.
 
